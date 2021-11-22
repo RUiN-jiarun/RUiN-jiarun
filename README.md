@@ -14,7 +14,7 @@
 ## Skill & Interest
 
 - Languages: Python, C/C++
-- Game Developing: Skilled in Unity, learning UE5 right now.
+- Game Developing: Skilled in Unity, learning Unreal Engine right now.
 - Have some experience in front-end developing
 - Studying ML and CV for my future work now.
 
