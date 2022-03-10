@@ -6,7 +6,7 @@
 - I'm Liu Jiarun, an undergraduate student in Zhejiang University, major in Digital Media Technology
 - I will continue my master's degree at Zhejiang University, major in Software Engineering.
 - Now focus on KG, visualization and something about digital art.
-- Future work: TBA.
+- Future work: 3DV@ZJUCVG.
 - Blog: [link here](http://www.ruin.net.cn)
 
 
