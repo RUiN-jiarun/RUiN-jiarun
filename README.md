@@ -3,10 +3,10 @@
 
 ## About ME
 
-- I'm Liu Jiarun, an undergraduate student in Zhejiang University, major in Digital Media Technology
-- I will continue my master's degree at Zhejiang University, major in Software Engineering.
-- Now focus on CV and something about digital art.
-- Future work: 3DV@ZJUCVG.
+- I'm Liu Jiarun, a postgraduate student at Zhejiang University, Computer Science and Technology Dept.
+- Now focus on CV and 3DV. I'm a member of 3DV@ZJUCVG
+- I got my Bachelor's degree at Zhejiang University, major in digital media technoloy. 
+- A Vegetable Dog.
 - Blog: [link here](http://www.ruin.net.cn)
 
 
