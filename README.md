@@ -7,8 +7,6 @@
 - Now focus on CV and 3DV. I'm a member of 3DV_group@ZJU_CAD_CG_Lab
 - I got my Bachelor's degree at Zhejiang University, major in digital media technoloy. 
 - A Vegetable Dog.
-- Blog: [link here](http://www.ruin.net.cn)
-
 
 
 ## Skill & Interest
