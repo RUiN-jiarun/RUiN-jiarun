@@ -3,9 +3,9 @@
 
 ## About ME
 
-- I'm Liu Jiarun, a postgraduate student at Zhejiang University, Computer Science and Technology Dept.
-- Now focus on CV and 3DV. I'm a member of 3DV_group@ZJU_CAD_CG_Lab
-- I got my Bachelor's degree at Zhejiang University, major in digital media technoloy. 
+- I'm Liu Jiarun, a 3DCV researcher. Mainly focusing on auto driving scenarios.
+- I got my Master's degree at ZJU CAD&CG Lab. I used to be a member of 3DV_group@ZJU_CAD_CG_Lab
+- I got my Bachelor's degree at Zhejiang University, major in digital media technoloy.
 - A Vegetable Dog.
 
 
@@ -13,8 +13,7 @@
 
 - Languages: Python, C/C++
 - Game Developing: Skilled in Unity, learning Unreal Engine right now.
-- Have some experience in front-end developing
-- Studying ML and CV for my future work now.
+- Major: SLAM, Visloc, 3DGS, Auto-Driving and so on.
 
 
 
