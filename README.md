@@ -12,8 +12,9 @@
 ## Skill & Interest
 
 - Languages: Python, C/C++
+- Major: SLAM, Visloc, 3DGS, Diffusion and so on.
 - Game Developing: Skilled in Unity, learning Unreal Engine right now.
-- Major: SLAM, Visloc, 3DGS, Auto-Driving and so on.
+
 
 
 
